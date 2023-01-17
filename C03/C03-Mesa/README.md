@@ -44,7 +44,6 @@ return Math.round(Math.random() * (maximo - minimo) + minimo);
 }  
 aleatorio(4, 9)  
 
-**A |** Redondea el resultado de una ecuación que toma un número aleatorio calculando como parámetros un mínimo 4 y máximo 9.  ✔
+**A |** Redondea el resultado de una ecuación que toma un número aleatorio calculando como parámetros un mínimo 4 y máximo 9. ✔  
 **B |** Crea una función con 2 parámetros y retorna un número entero negativo.  
 **C |** Los argumentos 4 y 9 se toman de referencia para elegir un número al azar decimal con el método math.random…  
-
