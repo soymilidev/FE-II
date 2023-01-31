@@ -1,0 +1,41 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+    color: #3f3f3f;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    border: 1px solid #3f3f3f;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-responsive {
+    width: 90%;
+    margin: 0 auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
