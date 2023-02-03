@@ -14,3 +14,6 @@ La tarea consiste en crear el formulario y agregarles las validaciones a los cam
 
 ### Resolución
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C12/C12-Mesa/img/img-form.png)
+
+### Link
+https://form-i.vercel.app/

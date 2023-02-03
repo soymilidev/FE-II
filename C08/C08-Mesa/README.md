@@ -68,3 +68,6 @@ para que los usuarios puedan identificar que las mismas no son exclusivas de Arg
 
 ### Resolución
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C08/C08-Mesa/img/img-noticias.png)
+
+### Link
+https://noticias-pragma.vercel.app/
