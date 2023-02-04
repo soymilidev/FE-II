@@ -13,7 +13,7 @@
   if (!nameInput.value) {
     errorMessage.innerHTML = "Por favor, escribí tu nombre.";
   } else if (nameInput.value.length < 2 || nameInput.value.length > 25) {
-    errorMessage.innerHTML = `El nombre debe tener un mínimo 2 caracteres y un máximo 25; ingresaste ${nameInput.value.length}.`;
+    errorMessage.innerHTML = `El nombre debe tener entre 2 y 25 caracteres; ingresaste ${nameInput.value.length}.`;
   } else if (!/^[a-zA-Z\s]+$/.test(nameInput.value)) {
     errorMessage.innerHTML = "El valor introducido debe ser un nombre (letras y espacios solamente)";
   }
@@ -42,7 +42,7 @@ nameInput.addEventListener("input", function() {
   if (!nameInput.value) {
     errorMessage[0].innerHTML = "Por favor, escribí tu nombre.";
   } else if (nameInput.value.length < 2 || nameInput.value.length > 25) {
-    errorMessage[0].innerHTML = `El nombre debe tener un mínimo 2 caracteres y un máximo 25; ingresaste ${nameInput.value.length}.`;
+    errorMessage[0].innerHTML = `El nombre debe tener entre 2 y 25 caracteres; ingresaste ${nameInput.value.length}.`;
   } else if (!/^[a-zA-Z\s]+$/.test(nameInput.value)) {
     errorMessage[0].innerHTML = "El valor introducido debe ser un nombre (letras y espacios solamente)";
   }
