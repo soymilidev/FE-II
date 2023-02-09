@@ -48,5 +48,5 @@ Finalmente, agregar un listener en nuestra página que nos permita captar el eve
 **➔ Tips**
 - En este caso la tecla no debe alternar la visibilidad, solamente desocultar por única vez.
 
-### Resolución
+### Link
 https://perfil-del-developer.vercel.app/

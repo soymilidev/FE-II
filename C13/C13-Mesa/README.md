@@ -22,5 +22,5 @@ Validar el formulario, el mismo debe deshabilitar el botón de inscripción en e
 - El campo es obligatorio.
 - Si se selecciona Argentina, el formulario muestra una excepción: "Lo sentimos, aún no estamos reclutando magos en Argentina, pero pronto llegaremos"
 
-### Resolución
+### Prewiev
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C13/C13-Mesa/img/img-form.png)
