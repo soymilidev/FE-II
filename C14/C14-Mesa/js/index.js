@@ -15,9 +15,9 @@ let listaComentarios = [];
 
 //Comprobar si hay algún valor guardado en el almacenamiento local.
 //getItem --> devuelve el valor de la clave cuyo nombre se le pasa por parámetro
-if (localStorage.getItem("comentarios")) {
+if (localStorage.getItem("claveComentarios")) {
     //Si hay algún valor guardado en el almacenamiento local, se carga en "listaComentarios" usando JSON.parse().
-    listaComentarios = JSON.parse(localStorage.getItem("comentarios"));
+    listaComentarios = JSON.parse(localStorage.getItem("claveComentarios"));
     //Mostrar los comentarios guardados en la página
     renderizarComentarios();
 }
@@ -30,7 +30,7 @@ form.addEventListener("submit", function(event) {
     listaComentarios.push(comentario);
     //Mostrar el nuevo comentario
     renderizarComentarios();
-    localStorage.setItem("comentarios", JSON.stringify(listaComentarios));
+    localStorage.setItem("claveComentarios", JSON.stringify(listaComentarios));
 });
 
 //Mostrar todos los comentarios, recorrer la lista de coment. y crear un p para c/u
