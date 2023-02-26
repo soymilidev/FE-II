@@ -7,7 +7,7 @@ A partir de la actividad "Lista de comentarios", cumplir con los siguientes requ
 - Necesitamos que los comentarios también muestren el **momento** (día, hora y minutos) en el que fueron realizados.
 
 
-### Prewiev
+### Preview
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C15/C15-Mesa/img/img-form.png)
 
 ### Domain
