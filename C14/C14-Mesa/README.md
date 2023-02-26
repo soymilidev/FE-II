@@ -8,5 +8,5 @@ A partir de la maqueta asignada, cumplir con los siguientes requerimientos:
 - Cada vez que se agrega un nuevo comentario renderizarlo en una etiqueta "p"(sacar del HTML los hardcodeados y hacerlo dinámico).
 - Constantemente guardar la información en localStorage, si se recarga la página deberían mantenerse los comentarios.
 
-### Prewiev
+### Preview
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C14/C14-Mesa/img/img-form.png)
