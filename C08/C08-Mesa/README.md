@@ -66,7 +66,7 @@ internacionales de las nacionales. Para ello, deberán crear alguna clase aplica
 a las noticias internacionales (validar utilizando la propiedad del objeto que aclara esto)
 para que los usuarios puedan identificar que las mismas no son exclusivas de Argentina
 
-### Prewiev
+### Preview
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C08/C08-Mesa/img/img-noticias.png)
 
 ### Link
