@@ -12,7 +12,7 @@ La tarea consiste en crear el formulario y agregarles las validaciones a los cam
 - Finalmente, si alguno de los campos está incompleto debe pintarse en rojo o mostrar algún cartel al respecto con el error.
 
 
-### Prewiev
+### Preview
 ![Preview](https://github.com/soymilidev/FE-II/blob/main/C12/C12-Mesa/img/img-form.png)
 
 ### Link
